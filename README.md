@@ -12,5 +12,5 @@ Displays from:
 <ol>
     <li>Main - standard entry point to run program</li>
     <li>MainWindow - the window that instantiates and arranges all three QLabel displays and Stream objects, and connects their signals and slots</li>
-    <li>Stream - a QThread that is instantiated with one of the above sources, </li>
+    <li>Stream - a QThread that is instantiated with one of the above sources, reads frame from the source, and converts frame to appropriate format for subsequent display</li>
 </ol>
