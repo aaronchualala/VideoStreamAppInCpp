@@ -5,7 +5,7 @@ Displays from:
 <ul>
     <li>Real-time device camera stream</li>
     <li>Online "Big Buck Bunny" stream</li>
-    <li>Local "Al Jaazera" news clip</li>
+    <li>Local "Al Jazeera" news clip</li>
 </ul>
 
 ## Components
